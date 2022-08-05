@@ -61,3 +61,10 @@
     font-size: 18px;
     margin-top: 0.5vh;
 }
+
+.datetime {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 212.9px;
+    font-size: 14px;
+}
