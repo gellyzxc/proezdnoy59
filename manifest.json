@@ -1,0 +1,7 @@
+{
+    "short_name": "FAKETICKET159",
+    "name": "Fake Public Transport Ticket Generator by GELLYZXC",
+    "start_url": "/get-ticket.html",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
