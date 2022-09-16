@@ -9,7 +9,7 @@ window.onload = function() {
     var count = prompt("count");
 
     h31.textContent = number;
-    h2.textContent = busnumber;
+    h2.textContent = busnumber + "159";
     h3.textContent = count * 33;
     h4.textContent = count;
 }
