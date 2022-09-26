@@ -4,7 +4,7 @@ var h3 = document.getElementsByClassName('summ')[0];
 var h4 = document.getElementsByClassName('count')[0];
 
 window.onload = function() {
-    var busnumber = prompt("busnumber");
+    var busnumber = prompt("busnumber").toUpperCase();
     var number = prompt("number");
     var count = prompt("count");
 
