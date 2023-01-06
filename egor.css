@@ -37,6 +37,37 @@ body {
     max-width: calc(113 / 216 * 100vh);
 }
 
+.fuck {
+  position: absolute;
+}
+
+.ad {
+  position: absolute;
+  display: none;
+  height: 100%;
+  width: 100%;
+  z-index: 900;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.ad-close-button {
+  height: 24px;
+  width: 24px;
+  display: flex;
+}
+
+.ad-close-button-component {
+  height: 24px;
+  width: 24px;
+  background: none;
+  color: white;
+  font-size: 24px;
+}
+
 .screen {
   height: 100vh;
   width: 100%;
